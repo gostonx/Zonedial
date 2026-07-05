@@ -22,12 +22,19 @@ A lightweight macOS menu bar app for tracking time across multiple time zones at
 
 ## Install
 
-1. Download `Zonedial.dmg` from the [latest release](https://github.com/gostonx/Zonedial/releases/latest)
-2. Open the DMG and drag **Zonedial** into your `/Applications` folder
-3. Right-click the app and choose **Open** (required on first launch since it's not notarized)
-4. Click the `deskclock` icon in your menu bar
+### Homebrew
 
-Alternatively, right-click the menu bar icon to access the context menu.
+```bash
+brew tap gostonx/zonedial
+brew install --cask zonedial
+```
+
+### Manual
+
+1. Download `Zonedial.dmg` from the [latest release](https://github.com/gostonx/Zonedial/releases/latest)
+2. Open the DMG and drag **Zonedial** into `/Applications`
+3. Right-click the app and choose **Open** (required on first launch since it's not notarized)
+4. Click the deskclock icon in your menu bar
 
 ## Build from Source
 
