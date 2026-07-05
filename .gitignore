@@ -7,3 +7,7 @@ build/
 # macOS
 .DS_Store
 *.swp
+
+# DMG
+*.dmg
+dmg_staging/
