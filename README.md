@@ -2,6 +2,8 @@
 
 A lightweight macOS menu bar app for tracking time across multiple time zones at a glance.
 
+![Zonedial demo](assets/demo.gif)
+
 ## Download
 
 [![Download](https://img.shields.io/badge/Download-v1.0.1-blue)](https://github.com/gostonx/Zonedial/releases/latest/download/Zonedial.dmg)
